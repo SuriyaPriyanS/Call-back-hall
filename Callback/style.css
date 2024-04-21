@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+    color: rgb(83, 51, 164) !important;
+}
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    margin: 250px auto;
+}
